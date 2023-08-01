@@ -84,8 +84,8 @@ export function DesignVector() {
         fill="white"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M552.121 121.878C553.293 123.049 553.293 124.949 552.122 126.121L526.847 151.411C522.499 155.762 515.446 155.762 511.098 151.411C509.094 149.406 505.842 149.406 503.838 151.411L486.406 168.853C483.021 172.241 477.53 172.241 474.144 168.853C473.102 167.811 471.412 167.81 470.37 168.853L438.122 201.121C436.951 202.293 435.051 202.293 433.879 201.122C432.707 199.951 432.707 198.051 433.878 196.879L466.126 164.612C469.511 161.224 475.002 161.224 478.388 164.612C479.43 165.655 481.12 165.655 482.162 164.612L499.594 147.17C503.942 142.819 510.994 142.819 515.342 147.17C517.347 149.176 520.598 149.176 522.603 147.17L547.878 121.879C549.049 120.707 550.949 120.707 552.121 121.878Z"
         fill="url(#paint8_linear_1_378)"
       />
@@ -94,8 +94,8 @@ export function DesignVector() {
         fill="white"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M557.5 347C575.449 347 590 332.449 590 314.5C590 296.551 575.449 282 557.5 282C539.551 282 525 296.551 525 314.5C525 332.449 539.551 347 557.5 347ZM557.5 361C583.181 361 604 340.181 604 314.5C604 288.819 583.181 268 557.5 268C531.819 268 511 288.819 511 314.5C511 340.181 531.819 361 557.5 361Z"
         fill="url(#paint9_linear_1_378)"
       />
@@ -116,8 +116,8 @@ export function DesignVector() {
           y2="800.457"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FF6A3A" />
-          <stop offset="1" stop-color="#FF527B" />
+          <stop stopColor="#FF6A3A" />
+          <stop offset="1" stopColor="#FF527B" />
         </linearGradient>
         <linearGradient
           id="paint1_linear_1_378"
@@ -127,8 +127,8 @@ export function DesignVector() {
           y2="800.457"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FF6A3A" />
-          <stop offset="1" stop-color="#FF527B" />
+          <stop stopColor="#FF6A3A" />
+          <stop offset="1" stopColor="#FF527B" />
         </linearGradient>
         <linearGradient
           id="paint2_linear_1_378"
@@ -138,8 +138,8 @@ export function DesignVector() {
           y2="455.994"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FF3E83" />
-          <stop offset="1" stop-color="#FF9F2E" />
+          <stop stopColor="#FF3E83" />
+          <stop offset="1" stopColor="#FF9F2E" />
         </linearGradient>
         <linearGradient
           id="paint3_linear_1_378"
@@ -149,8 +149,8 @@ export function DesignVector() {
           y2="455.994"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FF3E83" />
-          <stop offset="1" stop-color="#FF9F2E" />
+          <stop stopColor="#FF3E83" />
+          <stop offset="1" stopColor="#FF9F2E" />
         </linearGradient>
         <linearGradient
           id="paint4_linear_1_378"
@@ -160,8 +160,8 @@ export function DesignVector() {
           y2="628"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FFB443" />
-          <stop offset="1" stop-color="#FF5B64" stop-opacity="0" />
+          <stop stopColor="#FFB443" />
+          <stop offset="1" stopColor="#FF5B64" stopOpacity="0" />
         </linearGradient>
         <linearGradient
           id="paint5_linear_1_378"
@@ -171,8 +171,8 @@ export function DesignVector() {
           y2="628"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FFB443" />
-          <stop offset="1" stop-color="#FF5B64" stop-opacity="0" />
+          <stop stopColor="#FFB443" />
+          <stop offset="1" stopColor="#FF5B64" stopOpacity="0" />
         </linearGradient>
         <linearGradient
           id="paint6_linear_1_378"
@@ -182,8 +182,8 @@ export function DesignVector() {
           y2="628"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#F8F8F8" />
-          <stop offset="1" stop-color="#EEEEEE" />
+          <stop stopColor="#F8F8F8" />
+          <stop offset="1" stopColor="#EEEEEE" />
         </linearGradient>
         <linearGradient
           id="paint7_linear_1_378"
@@ -193,9 +193,9 @@ export function DesignVector() {
           y2="628"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#CACBE8" />
-          <stop offset="1" stop-color="#EEEEEE" />
-          <stop offset="1" stop-color="#CACBE8" />
+          <stop stopColor="#CACBE8" />
+          <stop offset="1" stopColor="#EEEEEE" />
+          <stop offset="1" stopColor="#CACBE8" />
         </linearGradient>
         <linearGradient
           id="paint8_linear_1_378"
@@ -205,8 +205,8 @@ export function DesignVector() {
           y2="463.68"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FF9049" />
-          <stop offset="1" stop-color="#FF5E5E" />
+          <stop stopColor="#FF9049" />
+          <stop offset="1" stopColor="#FF5E5E" />
         </linearGradient>
         <linearGradient
           id="paint9_linear_1_378"
@@ -216,8 +216,8 @@ export function DesignVector() {
           y2="628"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FF6A3D" />
-          <stop offset="1" stop-color="#FF5B66" />
+          <stop stopColor="#FF6A3D" />
+          <stop offset="1" stopColor="#FF5B66" />
         </linearGradient>
       </defs>
     </svg>
