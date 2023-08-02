@@ -1,11 +1,10 @@
 export function DesignVector() {
   return (
     <svg
-      width="760"
-      height="628"
       viewBox="0 0 760 628"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
+      className="w-[760px] h-[628px] sm:h-[500px]"
     >
       <path
         d="M198 16C198 7.16346 205.163 0 214 0H582C590.837 0 598 7.16344 598 16V577C598 585.837 590.837 593 582 593H214C205.163 593 198 585.837 198 577V16Z"
